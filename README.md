@@ -1,13 +1,24 @@
 # Herobrine_desktop_petV2
 # 👁️ Herobrine Desktop Pet
 
-NOTICE:
-THIS IS ONLY A BETA VERSION!!!
-MORE VERIONS WILL BE REALEASED!!!
-BETA V3 WILL COME OUT ON 11/14/2026
+# 📢 DEVELOPMENT & RELEASE ANNOUNCEMENT
 
+**Herobrine Desktop Pet is currently in its BETA development stage.**
 
-REAL REALEASE WILL BE REALEASED ON AN ESITMATE DATE OS 11/28/2026!!!
+Additional versions and improvements are planned for future releases.
+
+### 📅 Planned Release Schedule
+
+- **Beta V3:** November 14, 2026 (Estimated)
+- **Full Release:** November 28, 2026 (Estimated)
+
+### ⚠️ Important Notice
+
+Please note that all release dates are estimates and are subject to change. Delays may occur due to development progress, testing, bug fixes, or additional improvements.
+
+Thank you for your patience, feedback, and support throughout development!
+
+**Stay tuned for future updates!**
 
 
 A Minecraft Herobrine-inspired desktop companion built with Python. He walks around your desktop, teleports randomly, watches your mouse cursor, talks to you using AI, and occasionally surprises you!
