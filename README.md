@@ -20,6 +20,21 @@ Thank you for your patience, feedback, and support throughout development!
 
 **Stay tuned for future updates!**
 
+### ⚠️ Health, Safety & Responsible Use Notice
+
+Herobrine Desktop Pet is a fictional entertainment application inspired by Minecraft.
+
+- **Jumpscares:** This application may contain sudden visual effects, loud sounds, and unexpected animations.
+- **Health Considerations:** Users who are sensitive to flashing lights, sudden noises, or frightening content should use caution.
+- **Photosensitivity:** Some visual effects may affect individuals with photosensitive epilepsy.
+- **Hearing Safety:** Avoid using excessively high volume levels.
+- **Mental Well-being:** The application is fictional and is not intended to cause distress or psychological discomfort.
+- **User Responsibility:** Use the application at your own discretion. Stop using it if you experience discomfort, dizziness, anxiety, or other adverse effects.
+- **Age Consideration:** Younger users should have parental guidance before using this application.
+
+**Disclaimer:** The developer is not responsible for discomfort, injury, or damage resulting from improper or inappropriate use of the application.
+
+This application is an unofficial fan-made project and is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
 
 A Minecraft Herobrine-inspired desktop companion built with Python. He walks around your desktop, teleports randomly, watches your mouse cursor, talks to you using AI, and occasionally surprises you!
 
